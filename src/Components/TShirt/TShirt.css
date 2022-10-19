@@ -1,0 +1,11 @@
+.tshirt-details{
+    border: 1px solid skyblue;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.tshirt-details img{
+    height: 250px;
+    width: 200px;
+}
+
